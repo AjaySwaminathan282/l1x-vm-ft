@@ -1,1 +1,1 @@
-# cargo-l1x-templates
+# l1x sample code for fungible token deployment on LayerOneX chain.
